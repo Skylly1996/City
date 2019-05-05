@@ -1,0 +1,25 @@
+2019-04-18 14:58:39,865-BrowserEngline-INFO-You had select Chrome browser
+2019-04-18 14:58:39,866-BrowserEngline-INFO-The test sever url is:http://192.168.1.203:8083/login
+2019-04-18 14:58:42,248-BrowserEngline-INFO-Staring chrome browser.
+2019-04-18 14:58:44,427-BrowserEngline-INFO-Open url:http://192.168.1.203:8083/login
+2019-04-18 14:58:45,552-BrowserEngline-INFO-Maximize the current window.
+2019-04-18 14:58:45,554-BrowserEngline-INFO-Set implicity wait 5 seconds. 
+2019-04-18 14:58:45,872-BasePage-INFO-输入内容
+2019-04-18 14:58:45,872-BasePage-INFO-输入内容
+2019-04-18 14:58:46,068-BasePage-INFO-输入内容
+2019-04-18 14:58:46,068-BasePage-INFO-输入内容
+2019-04-18 14:58:47,587-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:58:47,587-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:59:00,061-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:59:00,061-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:59:03,692-BasePage-INFO-输入内容
+2019-04-18 14:59:03,692-BasePage-INFO-输入内容
+2019-04-18 14:59:04,117-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:59:04,117-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:59:06,619-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:59:06,619-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:59:12,321-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:59:12,321-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:59:31,351-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:59:31,351-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:59:33,645-BrowserEngline-INFO-日志记录退出并关闭浏览器

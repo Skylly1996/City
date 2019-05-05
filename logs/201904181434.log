@@ -1,0 +1,33 @@
+2019-04-18 14:34:07,451-BrowserEngline-INFO-You had select Chrome browser
+2019-04-18 14:34:07,451-BrowserEngline-INFO-The test sever url is:http://192.168.1.203:8083/login
+2019-04-18 14:34:09,841-BrowserEngline-INFO-Staring chrome browser.
+2019-04-18 14:34:11,942-BrowserEngline-INFO-Open url:http://192.168.1.203:8083/login
+2019-04-18 14:34:13,129-BrowserEngline-INFO-Maximize the current window.
+2019-04-18 14:34:13,129-BrowserEngline-INFO-Set implicity wait 5 seconds. 
+2019-04-18 14:34:13,425-BasePage-INFO-输入内容
+2019-04-18 14:34:13,585-BasePage-INFO-输入内容
+2019-04-18 14:34:14,942-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:34:32,175-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-04-18 14:34:32,175-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-04-18 14:34:32,175-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-04-18 14:34:40,611-BrowserEngline-INFO-You had select Chrome browser
+2019-04-18 14:34:40,611-BrowserEngline-INFO-The test sever url is:http://192.168.1.203:8083/login
+2019-04-18 14:34:43,023-BrowserEngline-INFO-Staring chrome browser.
+2019-04-18 14:34:44,106-BrowserEngline-INFO-Open url:http://192.168.1.203:8083/login
+2019-04-18 14:34:45,230-BrowserEngline-INFO-Maximize the current window.
+2019-04-18 14:34:45,232-BrowserEngline-INFO-Set implicity wait 5 seconds. 
+2019-04-18 14:34:45,500-BasePage-INFO-输入内容
+2019-04-18 14:34:45,681-BasePage-INFO-输入内容
+2019-04-18 14:34:47,012-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:34:48,660-BasePage-INFO-输入内容
+2019-04-18 14:34:55,418-BasePage-INFO-输入内容
+2019-04-18 14:34:55,678-BasePage-INFO-输入内容
+2019-04-18 14:34:55,827-BasePage-INFO-输入内容
+2019-04-18 14:34:56,000-BasePage-INFO-输入内容
+2019-04-18 14:34:56,144-BasePage-INFO-输入内容
+2019-04-18 14:34:56,472-BasePage-INFO-输入内容
+2019-04-18 14:34:56,896-BasePage-INFO-输入内容
+2019-04-18 14:34:57,093-BasePage-INFO-输入内容
+2019-04-18 14:34:57,352-BasePage-INFO-输入内容
+2019-04-18 14:34:57,520-BasePage-INFO-输入内容
+2019-04-18 14:35:24,712-BrowserEngline-INFO-日志记录退出并关闭浏览器

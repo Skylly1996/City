@@ -1,0 +1,453 @@
+2019-04-18 16:51:30,747-BrowserEngline-INFO-You had select Chrome browser
+2019-04-18 16:51:30,747-BrowserEngline-INFO-The test sever url is:http://192.168.1.203:8083/login
+2019-04-18 16:51:33,472-BrowserEngline-INFO-Staring chrome browser.
+2019-04-18 16:51:36,700-BrowserEngline-INFO-Open url:http://192.168.1.203:8083/login
+2019-04-18 16:51:37,845-BrowserEngline-INFO-Maximize the current window.
+2019-04-18 16:51:37,845-BrowserEngline-INFO-Set implicity wait 5 seconds. 
+2019-04-18 16:51:38,141-BasePage-INFO-输入内容
+2019-04-18 16:51:38,141-BasePage-INFO-输入内容
+2019-04-18 16:51:38,141-BasePage-INFO-输入内容
+2019-04-18 16:51:38,141-BasePage-INFO-输入内容
+2019-04-18 16:51:38,141-BasePage-INFO-输入内容
+2019-04-18 16:51:38,308-BasePage-INFO-输入内容
+2019-04-18 16:51:38,308-BasePage-INFO-输入内容
+2019-04-18 16:51:38,308-BasePage-INFO-输入内容
+2019-04-18 16:51:38,308-BasePage-INFO-输入内容
+2019-04-18 16:51:38,308-BasePage-INFO-输入内容
+2019-04-18 16:51:39,847-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:51:39,847-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:51:39,847-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:51:39,847-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:51:39,847-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:51:40,099-BasePage-INFO-输入内容
+2019-04-18 16:51:40,099-BasePage-INFO-输入内容
+2019-04-18 16:51:40,099-BasePage-INFO-输入内容
+2019-04-18 16:51:40,099-BasePage-INFO-输入内容
+2019-04-18 16:51:40,099-BasePage-INFO-输入内容
+2019-04-18 16:51:40,232-BasePage-INFO-输入内容
+2019-04-18 16:51:40,232-BasePage-INFO-输入内容
+2019-04-18 16:51:40,232-BasePage-INFO-输入内容
+2019-04-18 16:51:40,232-BasePage-INFO-输入内容
+2019-04-18 16:51:40,232-BasePage-INFO-输入内容
+2019-04-18 16:51:41,452-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:51:41,452-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:51:41,452-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:51:41,452-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:51:41,452-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:51:41,640-BasePage-INFO-输入内容
+2019-04-18 16:51:41,640-BasePage-INFO-输入内容
+2019-04-18 16:51:41,640-BasePage-INFO-输入内容
+2019-04-18 16:51:41,640-BasePage-INFO-输入内容
+2019-04-18 16:51:41,640-BasePage-INFO-输入内容
+2019-04-18 16:51:41,811-BasePage-INFO-输入内容
+2019-04-18 16:51:41,811-BasePage-INFO-输入内容
+2019-04-18 16:51:41,811-BasePage-INFO-输入内容
+2019-04-18 16:51:41,811-BasePage-INFO-输入内容
+2019-04-18 16:51:41,811-BasePage-INFO-输入内容
+2019-04-18 16:51:43,033-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:51:43,033-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:51:43,033-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:51:43,033-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:51:43,033-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:51:45,267-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-04-18 16:51:45,267-BrowserEngline-INFO-You had select Chrome browser
+2019-04-18 16:51:45,267-BrowserEngline-INFO-The test sever url is:http://192.168.1.203:8083/login
+2019-04-18 16:51:47,730-BrowserEngline-INFO-Staring chrome browser.
+2019-04-18 16:51:48,711-BrowserEngline-INFO-Open url:http://192.168.1.203:8083/login
+2019-04-18 16:51:49,852-BrowserEngline-INFO-Maximize the current window.
+2019-04-18 16:51:49,854-BrowserEngline-INFO-Set implicity wait 5 seconds. 
+2019-04-18 16:51:50,098-BasePage-INFO-输入内容
+2019-04-18 16:51:50,098-BasePage-INFO-输入内容
+2019-04-18 16:51:50,098-BasePage-INFO-输入内容
+2019-04-18 16:51:50,098-BasePage-INFO-输入内容
+2019-04-18 16:51:50,098-BasePage-INFO-输入内容
+2019-04-18 16:51:50,295-BasePage-INFO-输入内容
+2019-04-18 16:51:50,295-BasePage-INFO-输入内容
+2019-04-18 16:51:50,295-BasePage-INFO-输入内容
+2019-04-18 16:51:50,295-BasePage-INFO-输入内容
+2019-04-18 16:51:50,295-BasePage-INFO-输入内容
+2019-04-18 16:51:51,762-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:51:51,762-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:51:51,762-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:51:51,762-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:51:51,762-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:51:53,746-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:51:53,746-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:51:53,746-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:51:53,746-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:51:53,746-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:51:54,545-BasePage-INFO-输入内容
+2019-04-18 16:51:54,545-BasePage-INFO-输入内容
+2019-04-18 16:51:54,545-BasePage-INFO-输入内容
+2019-04-18 16:51:54,545-BasePage-INFO-输入内容
+2019-04-18 16:51:54,545-BasePage-INFO-输入内容
+2019-04-18 16:51:55,004-BasePage-INFO-输入内容
+2019-04-18 16:51:55,004-BasePage-INFO-输入内容
+2019-04-18 16:51:55,004-BasePage-INFO-输入内容
+2019-04-18 16:51:55,004-BasePage-INFO-输入内容
+2019-04-18 16:51:55,004-BasePage-INFO-输入内容
+2019-04-18 16:51:56,178-BasePage-INFO-输入内容
+2019-04-18 16:51:56,178-BasePage-INFO-输入内容
+2019-04-18 16:51:56,178-BasePage-INFO-输入内容
+2019-04-18 16:51:56,178-BasePage-INFO-输入内容
+2019-04-18 16:51:56,178-BasePage-INFO-输入内容
+2019-04-18 16:51:56,546-BasePage-INFO-输入内容
+2019-04-18 16:51:56,546-BasePage-INFO-输入内容
+2019-04-18 16:51:56,546-BasePage-INFO-输入内容
+2019-04-18 16:51:56,546-BasePage-INFO-输入内容
+2019-04-18 16:51:56,546-BasePage-INFO-输入内容
+2019-04-18 16:51:57,709-BasePage-INFO-输入内容
+2019-04-18 16:51:57,709-BasePage-INFO-输入内容
+2019-04-18 16:51:57,709-BasePage-INFO-输入内容
+2019-04-18 16:51:57,709-BasePage-INFO-输入内容
+2019-04-18 16:51:57,709-BasePage-INFO-输入内容
+2019-04-18 16:51:58,063-BasePage-INFO-输入内容
+2019-04-18 16:51:58,063-BasePage-INFO-输入内容
+2019-04-18 16:51:58,063-BasePage-INFO-输入内容
+2019-04-18 16:51:58,063-BasePage-INFO-输入内容
+2019-04-18 16:51:58,063-BasePage-INFO-输入内容
+2019-04-18 16:51:59,269-BasePage-INFO-输入内容
+2019-04-18 16:51:59,269-BasePage-INFO-输入内容
+2019-04-18 16:51:59,269-BasePage-INFO-输入内容
+2019-04-18 16:51:59,269-BasePage-INFO-输入内容
+2019-04-18 16:51:59,269-BasePage-INFO-输入内容
+2019-04-18 16:51:59,590-BasePage-INFO-输入内容
+2019-04-18 16:51:59,590-BasePage-INFO-输入内容
+2019-04-18 16:51:59,590-BasePage-INFO-输入内容
+2019-04-18 16:51:59,590-BasePage-INFO-输入内容
+2019-04-18 16:51:59,590-BasePage-INFO-输入内容
+2019-04-18 16:52:00,339-BasePage-ERROR-Failed to type in input box with object of type 'float' has no len()
+2019-04-18 16:52:00,339-BasePage-ERROR-Failed to type in input box with object of type 'float' has no len()
+2019-04-18 16:52:00,339-BasePage-ERROR-Failed to type in input box with object of type 'float' has no len()
+2019-04-18 16:52:00,339-BasePage-ERROR-Failed to type in input box with object of type 'float' has no len()
+2019-04-18 16:52:00,339-BasePage-ERROR-Failed to type in input box with object of type 'float' has no len()
+2019-04-18 16:52:00,822-BasePage-INFO-输入内容
+2019-04-18 16:52:00,822-BasePage-INFO-输入内容
+2019-04-18 16:52:00,822-BasePage-INFO-输入内容
+2019-04-18 16:52:00,822-BasePage-INFO-输入内容
+2019-04-18 16:52:00,822-BasePage-INFO-输入内容
+2019-04-18 16:52:04,171-BasePage-INFO-输入内容
+2019-04-18 16:52:04,171-BasePage-INFO-输入内容
+2019-04-18 16:52:04,171-BasePage-INFO-输入内容
+2019-04-18 16:52:04,171-BasePage-INFO-输入内容
+2019-04-18 16:52:04,171-BasePage-INFO-输入内容
+2019-04-18 16:52:04,501-BasePage-INFO-输入内容
+2019-04-18 16:52:04,501-BasePage-INFO-输入内容
+2019-04-18 16:52:04,501-BasePage-INFO-输入内容
+2019-04-18 16:52:04,501-BasePage-INFO-输入内容
+2019-04-18 16:52:04,501-BasePage-INFO-输入内容
+2019-04-18 16:52:13,127-BasePage-INFO-输入内容
+2019-04-18 16:52:13,127-BasePage-INFO-输入内容
+2019-04-18 16:52:13,127-BasePage-INFO-输入内容
+2019-04-18 16:52:13,127-BasePage-INFO-输入内容
+2019-04-18 16:52:13,127-BasePage-INFO-输入内容
+2019-04-18 16:52:13,386-BasePage-INFO-输入内容
+2019-04-18 16:52:13,386-BasePage-INFO-输入内容
+2019-04-18 16:52:13,386-BasePage-INFO-输入内容
+2019-04-18 16:52:13,386-BasePage-INFO-输入内容
+2019-04-18 16:52:13,386-BasePage-INFO-输入内容
+2019-04-18 16:52:13,801-BasePage-INFO-输入内容
+2019-04-18 16:52:13,801-BasePage-INFO-输入内容
+2019-04-18 16:52:13,801-BasePage-INFO-输入内容
+2019-04-18 16:52:13,801-BasePage-INFO-输入内容
+2019-04-18 16:52:13,801-BasePage-INFO-输入内容
+2019-04-18 16:52:23,937-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-04-18 16:52:23,937-BrowserEngline-INFO-You had select Chrome browser
+2019-04-18 16:52:23,937-BrowserEngline-INFO-The test sever url is:http://192.168.1.203:8083/login
+2019-04-18 16:52:26,254-BrowserEngline-INFO-Staring chrome browser.
+2019-04-18 16:52:27,158-BrowserEngline-INFO-Open url:http://192.168.1.203:8083/login
+2019-04-18 16:52:28,298-BrowserEngline-INFO-Maximize the current window.
+2019-04-18 16:52:28,298-BrowserEngline-INFO-Set implicity wait 5 seconds. 
+2019-04-18 16:52:28,575-BasePage-INFO-输入内容
+2019-04-18 16:52:28,575-BasePage-INFO-输入内容
+2019-04-18 16:52:28,575-BasePage-INFO-输入内容
+2019-04-18 16:52:28,575-BasePage-INFO-输入内容
+2019-04-18 16:52:28,575-BasePage-INFO-输入内容
+2019-04-18 16:52:28,757-BasePage-INFO-输入内容
+2019-04-18 16:52:28,757-BasePage-INFO-输入内容
+2019-04-18 16:52:28,757-BasePage-INFO-输入内容
+2019-04-18 16:52:28,757-BasePage-INFO-输入内容
+2019-04-18 16:52:28,757-BasePage-INFO-输入内容
+2019-04-18 16:52:30,184-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:52:30,184-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:52:30,184-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:52:30,184-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:52:30,184-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:52:35,385-BasePage-INFO-输入内容
+2019-04-18 16:52:35,385-BasePage-INFO-输入内容
+2019-04-18 16:52:35,385-BasePage-INFO-输入内容
+2019-04-18 16:52:35,385-BasePage-INFO-输入内容
+2019-04-18 16:52:35,385-BasePage-INFO-输入内容
+2019-04-18 16:52:36,342-BasePage-INFO-输入内容
+2019-04-18 16:52:36,342-BasePage-INFO-输入内容
+2019-04-18 16:52:36,342-BasePage-INFO-输入内容
+2019-04-18 16:52:36,342-BasePage-INFO-输入内容
+2019-04-18 16:52:36,342-BasePage-INFO-输入内容
+2019-04-18 16:52:36,981-BasePage-INFO-输入内容
+2019-04-18 16:52:36,981-BasePage-INFO-输入内容
+2019-04-18 16:52:36,981-BasePage-INFO-输入内容
+2019-04-18 16:52:36,981-BasePage-INFO-输入内容
+2019-04-18 16:52:36,981-BasePage-INFO-输入内容
+2019-04-18 16:52:42,715-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-04-18 16:52:42,715-BrowserEngline-INFO-You had select Chrome browser
+2019-04-18 16:52:42,715-BrowserEngline-INFO-The test sever url is:http://192.168.1.203:8083/login
+2019-04-18 16:52:45,175-BrowserEngline-INFO-Staring chrome browser.
+2019-04-18 16:52:45,940-BrowserEngline-INFO-Open url:http://192.168.1.203:8083/login
+2019-04-18 16:52:47,112-BrowserEngline-INFO-Maximize the current window.
+2019-04-18 16:52:47,112-BrowserEngline-INFO-Set implicity wait 5 seconds. 
+2019-04-18 16:52:47,437-BasePage-INFO-输入内容
+2019-04-18 16:52:47,437-BasePage-INFO-输入内容
+2019-04-18 16:52:47,437-BasePage-INFO-输入内容
+2019-04-18 16:52:47,437-BasePage-INFO-输入内容
+2019-04-18 16:52:47,437-BasePage-INFO-输入内容
+2019-04-18 16:52:47,591-BasePage-INFO-输入内容
+2019-04-18 16:52:47,591-BasePage-INFO-输入内容
+2019-04-18 16:52:47,591-BasePage-INFO-输入内容
+2019-04-18 16:52:47,591-BasePage-INFO-输入内容
+2019-04-18 16:52:47,591-BasePage-INFO-输入内容
+2019-04-18 16:52:48,855-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:52:48,855-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:52:48,855-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:52:48,855-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:52:48,855-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:52:50,974-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:52:50,974-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:52:50,974-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:52:50,974-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:52:50,974-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:52:54,577-BasePage-INFO-输入内容
+2019-04-18 16:52:54,577-BasePage-INFO-输入内容
+2019-04-18 16:52:54,577-BasePage-INFO-输入内容
+2019-04-18 16:52:54,577-BasePage-INFO-输入内容
+2019-04-18 16:52:54,577-BasePage-INFO-输入内容
+2019-04-18 16:52:55,194-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:52:55,194-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:52:55,194-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:52:55,194-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:52:55,194-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:52:57,870-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:52:57,870-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:52:57,870-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:52:57,870-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:52:57,870-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:53:03,396-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:53:03,396-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:53:03,396-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:53:03,396-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:53:03,396-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:53:20,462-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:53:20,462-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:53:20,462-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:53:20,462-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:53:20,462-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:53:22,847-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-04-18 16:53:22,847-BrowserEngline-INFO-You had select Chrome browser
+2019-04-18 16:53:22,847-BrowserEngline-INFO-The test sever url is:http://192.168.1.203:8083/login
+2019-04-18 16:53:25,194-BrowserEngline-INFO-Staring chrome browser.
+2019-04-18 16:53:26,071-BrowserEngline-INFO-Open url:http://192.168.1.203:8083/login
+2019-04-18 16:53:27,215-BrowserEngline-INFO-Maximize the current window.
+2019-04-18 16:53:27,217-BrowserEngline-INFO-Set implicity wait 5 seconds. 
+2019-04-18 16:53:27,485-BasePage-INFO-输入内容
+2019-04-18 16:53:27,485-BasePage-INFO-输入内容
+2019-04-18 16:53:27,485-BasePage-INFO-输入内容
+2019-04-18 16:53:27,485-BasePage-INFO-输入内容
+2019-04-18 16:53:27,485-BasePage-INFO-输入内容
+2019-04-18 16:53:27,621-BasePage-INFO-输入内容
+2019-04-18 16:53:27,621-BasePage-INFO-输入内容
+2019-04-18 16:53:27,621-BasePage-INFO-输入内容
+2019-04-18 16:53:27,621-BasePage-INFO-输入内容
+2019-04-18 16:53:27,621-BasePage-INFO-输入内容
+2019-04-18 16:53:29,129-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:53:29,129-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:53:29,129-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:53:29,129-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:53:29,129-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:53:42,676-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-04-18 16:53:42,676-BrowserEngline-INFO-You had select Chrome browser
+2019-04-18 16:53:42,676-BrowserEngline-INFO-The test sever url is:http://192.168.1.203:8083/login
+2019-04-18 16:53:45,037-BrowserEngline-INFO-Staring chrome browser.
+2019-04-18 16:53:47,077-BrowserEngline-INFO-Open url:http://192.168.1.203:8083/login
+2019-04-18 16:53:48,261-BrowserEngline-INFO-Maximize the current window.
+2019-04-18 16:53:48,263-BrowserEngline-INFO-Set implicity wait 5 seconds. 
+2019-04-18 16:53:48,574-BasePage-INFO-输入内容
+2019-04-18 16:53:48,574-BasePage-INFO-输入内容
+2019-04-18 16:53:48,574-BasePage-INFO-输入内容
+2019-04-18 16:53:48,574-BasePage-INFO-输入内容
+2019-04-18 16:53:48,574-BasePage-INFO-输入内容
+2019-04-18 16:53:48,735-BasePage-INFO-输入内容
+2019-04-18 16:53:48,735-BasePage-INFO-输入内容
+2019-04-18 16:53:48,735-BasePage-INFO-输入内容
+2019-04-18 16:53:48,735-BasePage-INFO-输入内容
+2019-04-18 16:53:48,735-BasePage-INFO-输入内容
+2019-04-18 16:53:50,259-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:53:50,259-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:53:50,259-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:53:50,259-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:53:50,259-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:53:51,832-BasePage-INFO-输入内容
+2019-04-18 16:53:51,832-BasePage-INFO-输入内容
+2019-04-18 16:53:51,832-BasePage-INFO-输入内容
+2019-04-18 16:53:51,832-BasePage-INFO-输入内容
+2019-04-18 16:53:51,832-BasePage-INFO-输入内容
+2019-04-18 16:53:54,610-BasePage-INFO-输入内容
+2019-04-18 16:53:54,610-BasePage-INFO-输入内容
+2019-04-18 16:53:54,610-BasePage-INFO-输入内容
+2019-04-18 16:53:54,610-BasePage-INFO-输入内容
+2019-04-18 16:53:54,610-BasePage-INFO-输入内容
+2019-04-18 16:53:57,369-BasePage-INFO-输入内容
+2019-04-18 16:53:57,369-BasePage-INFO-输入内容
+2019-04-18 16:53:57,369-BasePage-INFO-输入内容
+2019-04-18 16:53:57,369-BasePage-INFO-输入内容
+2019-04-18 16:53:57,369-BasePage-INFO-输入内容
+2019-04-18 16:53:57,676-BasePage-INFO-输入内容
+2019-04-18 16:53:57,676-BasePage-INFO-输入内容
+2019-04-18 16:53:57,676-BasePage-INFO-输入内容
+2019-04-18 16:53:57,676-BasePage-INFO-输入内容
+2019-04-18 16:53:57,676-BasePage-INFO-输入内容
+2019-04-18 16:53:57,971-BasePage-INFO-输入内容
+2019-04-18 16:53:57,971-BasePage-INFO-输入内容
+2019-04-18 16:53:57,971-BasePage-INFO-输入内容
+2019-04-18 16:53:57,971-BasePage-INFO-输入内容
+2019-04-18 16:53:57,971-BasePage-INFO-输入内容
+2019-04-18 16:53:58,407-BasePage-INFO-输入内容
+2019-04-18 16:53:58,407-BasePage-INFO-输入内容
+2019-04-18 16:53:58,407-BasePage-INFO-输入内容
+2019-04-18 16:53:58,407-BasePage-INFO-输入内容
+2019-04-18 16:53:58,407-BasePage-INFO-输入内容
+2019-04-18 16:53:58,690-BasePage-INFO-输入内容
+2019-04-18 16:53:58,690-BasePage-INFO-输入内容
+2019-04-18 16:53:58,690-BasePage-INFO-输入内容
+2019-04-18 16:53:58,690-BasePage-INFO-输入内容
+2019-04-18 16:53:58,690-BasePage-INFO-输入内容
+2019-04-18 16:54:29,814-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-04-18 16:54:29,814-BrowserEngline-INFO-You had select Chrome browser
+2019-04-18 16:54:29,814-BrowserEngline-INFO-The test sever url is:http://192.168.1.203:8083/login
+2019-04-18 16:54:32,191-BrowserEngline-INFO-Staring chrome browser.
+2019-04-18 16:54:35,566-BrowserEngline-INFO-Open url:http://192.168.1.203:8083/login
+2019-04-18 16:54:36,724-BrowserEngline-INFO-Maximize the current window.
+2019-04-18 16:54:36,725-BrowserEngline-INFO-Set implicity wait 5 seconds. 
+2019-04-18 16:54:36,988-BasePage-INFO-输入内容
+2019-04-18 16:54:36,988-BasePage-INFO-输入内容
+2019-04-18 16:54:36,988-BasePage-INFO-输入内容
+2019-04-18 16:54:36,988-BasePage-INFO-输入内容
+2019-04-18 16:54:36,988-BasePage-INFO-输入内容
+2019-04-18 16:54:37,123-BasePage-INFO-输入内容
+2019-04-18 16:54:37,123-BasePage-INFO-输入内容
+2019-04-18 16:54:37,123-BasePage-INFO-输入内容
+2019-04-18 16:54:37,123-BasePage-INFO-输入内容
+2019-04-18 16:54:37,123-BasePage-INFO-输入内容
+2019-04-18 16:54:38,669-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:54:38,669-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:54:38,669-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:54:38,669-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:54:38,669-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:54:40,362-BasePage-INFO-输入内容
+2019-04-18 16:54:40,362-BasePage-INFO-输入内容
+2019-04-18 16:54:40,362-BasePage-INFO-输入内容
+2019-04-18 16:54:40,362-BasePage-INFO-输入内容
+2019-04-18 16:54:40,362-BasePage-INFO-输入内容
+2019-04-18 16:54:47,102-BasePage-INFO-输入内容
+2019-04-18 16:54:47,102-BasePage-INFO-输入内容
+2019-04-18 16:54:47,102-BasePage-INFO-输入内容
+2019-04-18 16:54:47,102-BasePage-INFO-输入内容
+2019-04-18 16:54:47,102-BasePage-INFO-输入内容
+2019-04-18 16:54:47,415-BasePage-INFO-输入内容
+2019-04-18 16:54:47,415-BasePage-INFO-输入内容
+2019-04-18 16:54:47,415-BasePage-INFO-输入内容
+2019-04-18 16:54:47,415-BasePage-INFO-输入内容
+2019-04-18 16:54:47,415-BasePage-INFO-输入内容
+2019-04-18 16:54:47,612-BasePage-INFO-输入内容
+2019-04-18 16:54:47,612-BasePage-INFO-输入内容
+2019-04-18 16:54:47,612-BasePage-INFO-输入内容
+2019-04-18 16:54:47,612-BasePage-INFO-输入内容
+2019-04-18 16:54:47,612-BasePage-INFO-输入内容
+2019-04-18 16:54:47,814-BasePage-INFO-输入内容
+2019-04-18 16:54:47,814-BasePage-INFO-输入内容
+2019-04-18 16:54:47,814-BasePage-INFO-输入内容
+2019-04-18 16:54:47,814-BasePage-INFO-输入内容
+2019-04-18 16:54:47,814-BasePage-INFO-输入内容
+2019-04-18 16:54:47,946-BasePage-INFO-输入内容
+2019-04-18 16:54:47,946-BasePage-INFO-输入内容
+2019-04-18 16:54:47,946-BasePage-INFO-输入内容
+2019-04-18 16:54:47,946-BasePage-INFO-输入内容
+2019-04-18 16:54:47,946-BasePage-INFO-输入内容
+2019-04-18 16:54:48,364-BasePage-INFO-输入内容
+2019-04-18 16:54:48,364-BasePage-INFO-输入内容
+2019-04-18 16:54:48,364-BasePage-INFO-输入内容
+2019-04-18 16:54:48,364-BasePage-INFO-输入内容
+2019-04-18 16:54:48,364-BasePage-INFO-输入内容
+2019-04-18 16:54:48,689-BasePage-INFO-输入内容
+2019-04-18 16:54:48,689-BasePage-INFO-输入内容
+2019-04-18 16:54:48,689-BasePage-INFO-输入内容
+2019-04-18 16:54:48,689-BasePage-INFO-输入内容
+2019-04-18 16:54:48,689-BasePage-INFO-输入内容
+2019-04-18 16:54:48,893-BasePage-INFO-输入内容
+2019-04-18 16:54:48,893-BasePage-INFO-输入内容
+2019-04-18 16:54:48,893-BasePage-INFO-输入内容
+2019-04-18 16:54:48,893-BasePage-INFO-输入内容
+2019-04-18 16:54:48,893-BasePage-INFO-输入内容
+2019-04-18 16:54:49,129-BasePage-INFO-输入内容
+2019-04-18 16:54:49,129-BasePage-INFO-输入内容
+2019-04-18 16:54:49,129-BasePage-INFO-输入内容
+2019-04-18 16:54:49,129-BasePage-INFO-输入内容
+2019-04-18 16:54:49,129-BasePage-INFO-输入内容
+2019-04-18 16:54:49,278-BasePage-INFO-输入内容
+2019-04-18 16:54:49,278-BasePage-INFO-输入内容
+2019-04-18 16:54:49,278-BasePage-INFO-输入内容
+2019-04-18 16:54:49,278-BasePage-INFO-输入内容
+2019-04-18 16:54:49,278-BasePage-INFO-输入内容
+2019-04-18 16:55:16,484-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-04-18 16:55:16,484-BrowserEngline-INFO-You had select Chrome browser
+2019-04-18 16:55:16,484-BrowserEngline-INFO-The test sever url is:http://192.168.1.203:8083/login
+2019-04-18 16:55:18,774-BrowserEngline-INFO-Staring chrome browser.
+2019-04-18 16:55:21,091-BrowserEngline-INFO-Open url:http://192.168.1.203:8083/login
+2019-04-18 16:55:22,249-BrowserEngline-INFO-Maximize the current window.
+2019-04-18 16:55:22,250-BrowserEngline-INFO-Set implicity wait 5 seconds. 
+2019-04-18 16:55:22,511-BasePage-INFO-输入内容
+2019-04-18 16:55:22,511-BasePage-INFO-输入内容
+2019-04-18 16:55:22,511-BasePage-INFO-输入内容
+2019-04-18 16:55:22,511-BasePage-INFO-输入内容
+2019-04-18 16:55:22,511-BasePage-INFO-输入内容
+2019-04-18 16:55:22,646-BasePage-INFO-输入内容
+2019-04-18 16:55:22,646-BasePage-INFO-输入内容
+2019-04-18 16:55:22,646-BasePage-INFO-输入内容
+2019-04-18 16:55:22,646-BasePage-INFO-输入内容
+2019-04-18 16:55:22,646-BasePage-INFO-输入内容
+2019-04-18 16:55:24,159-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:55:24,159-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:55:24,159-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:55:24,159-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:55:24,159-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:55:41,473-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-04-18 16:55:41,473-BrowserEngline-INFO-You had select Chrome browser
+2019-04-18 16:55:41,473-BrowserEngline-INFO-The test sever url is:http://192.168.1.203:8083/login
+2019-04-18 16:55:43,812-BrowserEngline-INFO-Staring chrome browser.
+2019-04-18 16:55:46,009-BrowserEngline-INFO-Open url:http://192.168.1.203:8083/login
+2019-04-18 16:55:47,154-BrowserEngline-INFO-Maximize the current window.
+2019-04-18 16:55:47,155-BrowserEngline-INFO-Set implicity wait 5 seconds. 
+2019-04-18 16:55:47,404-BasePage-INFO-输入内容
+2019-04-18 16:55:47,404-BasePage-INFO-输入内容
+2019-04-18 16:55:47,404-BasePage-INFO-输入内容
+2019-04-18 16:55:47,404-BasePage-INFO-输入内容
+2019-04-18 16:55:47,404-BasePage-INFO-输入内容
+2019-04-18 16:55:47,565-BasePage-INFO-输入内容
+2019-04-18 16:55:47,565-BasePage-INFO-输入内容
+2019-04-18 16:55:47,565-BasePage-INFO-输入内容
+2019-04-18 16:55:47,565-BasePage-INFO-输入内容
+2019-04-18 16:55:47,565-BasePage-INFO-输入内容
+2019-04-18 16:55:49,000-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:55:49,000-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:55:49,000-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:55:49,000-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:55:49,000-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:55:51,950-BasePage-INFO-输入内容
+2019-04-18 16:55:51,950-BasePage-INFO-输入内容
+2019-04-18 16:55:51,950-BasePage-INFO-输入内容
+2019-04-18 16:55:51,950-BasePage-INFO-输入内容
+2019-04-18 16:55:51,950-BasePage-INFO-输入内容
+2019-04-18 16:55:54,065-BasePage-INFO-输入内容
+2019-04-18 16:55:54,065-BasePage-INFO-输入内容
+2019-04-18 16:55:54,065-BasePage-INFO-输入内容
+2019-04-18 16:55:54,065-BasePage-INFO-输入内容
+2019-04-18 16:55:54,065-BasePage-INFO-输入内容
+2019-04-18 16:56:06,795-BrowserEngline-INFO-日志记录退出并关闭浏览器

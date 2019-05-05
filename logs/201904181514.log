@@ -1,0 +1,13 @@
+2019-04-18 15:14:45,870-BrowserEngline-INFO-You had select Chrome browser
+2019-04-18 15:14:45,870-BrowserEngline-INFO-The test sever url is:http://192.168.1.203:8083/login
+2019-04-18 15:14:49,284-BrowserEngline-INFO-Staring chrome browser.
+2019-04-18 15:14:51,413-BrowserEngline-INFO-Open url:http://192.168.1.203:8083/login
+2019-04-18 15:14:52,586-BrowserEngline-INFO-Maximize the current window.
+2019-04-18 15:14:52,586-BrowserEngline-INFO-Set implicity wait 5 seconds. 
+2019-04-18 15:14:52,842-BasePage-INFO-输入内容
+2019-04-18 15:14:52,987-BasePage-INFO-输入内容
+2019-04-18 15:14:54,353-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 15:15:16,223-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 15:15:38,448-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-04-18 15:15:49,528-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-04-18 15:16:04,623-BrowserEngline-INFO-日志记录退出并关闭浏览器

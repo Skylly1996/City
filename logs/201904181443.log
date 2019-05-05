@@ -1,0 +1,16 @@
+2019-04-18 14:43:53,527-BrowserEngline-INFO-You had select Chrome browser
+2019-04-18 14:43:53,527-BrowserEngline-INFO-The test sever url is:http://192.168.1.203:8083/login
+2019-04-18 14:43:56,395-BrowserEngline-INFO-Staring chrome browser.
+2019-04-18 14:43:57,744-BrowserEngline-INFO-Open url:http://192.168.1.203:8083/login
+2019-04-18 14:43:58,873-BrowserEngline-INFO-Maximize the current window.
+2019-04-18 14:43:58,874-BrowserEngline-INFO-Set implicity wait 5 seconds. 
+2019-04-18 14:43:59,312-BasePage-INFO-输入内容
+2019-04-18 14:43:59,312-BasePage-INFO-输入内容
+2019-04-18 14:43:59,535-BasePage-INFO-输入内容
+2019-04-18 14:43:59,535-BasePage-INFO-输入内容
+2019-04-18 14:44:01,681-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:44:01,681-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:44:05,961-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:44:05,961-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:44:41,473-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:44:41,473-BasePage-INFO-截图保存到 /screenshots

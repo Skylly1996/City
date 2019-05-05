@@ -1,0 +1,26 @@
+2019-04-18 14:30:07,800-BrowserEngline-INFO-You had select Chrome browser
+2019-04-18 14:30:07,800-BrowserEngline-INFO-The test sever url is:http://192.168.1.203:8083/login
+2019-04-18 14:30:10,130-BrowserEngline-INFO-Staring chrome browser.
+2019-04-18 14:30:11,085-BrowserEngline-INFO-Open url:http://192.168.1.203:8083/login
+2019-04-18 14:30:12,222-BrowserEngline-INFO-Maximize the current window.
+2019-04-18 14:30:12,222-BrowserEngline-INFO-Set implicity wait 5 seconds. 
+2019-04-18 14:30:12,505-BasePage-INFO-输入内容
+2019-04-18 14:30:12,505-BasePage-INFO-输入内容
+2019-04-18 14:30:12,667-BasePage-INFO-输入内容
+2019-04-18 14:30:12,667-BasePage-INFO-输入内容
+2019-04-18 14:30:14,876-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:30:14,876-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:30:28,157-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-04-18 14:30:49,361-BrowserEngline-INFO-You had select Chrome browser
+2019-04-18 14:30:49,361-BrowserEngline-INFO-The test sever url is:http://192.168.1.203:8083/login
+2019-04-18 14:30:51,965-BrowserEngline-INFO-Staring chrome browser.
+2019-04-18 14:30:53,899-BrowserEngline-INFO-Open url:http://192.168.1.203:8083/login
+2019-04-18 14:30:55,050-BrowserEngline-INFO-Maximize the current window.
+2019-04-18 14:30:55,050-BrowserEngline-INFO-Set implicity wait 5 seconds. 
+2019-04-18 14:30:55,323-BasePage-INFO-输入内容
+2019-04-18 14:30:55,323-BasePage-INFO-输入内容
+2019-04-18 14:30:55,486-BasePage-INFO-输入内容
+2019-04-18 14:30:55,486-BasePage-INFO-输入内容
+2019-04-18 14:30:56,929-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:30:56,929-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:31:10,472-BrowserEngline-INFO-日志记录退出并关闭浏览器

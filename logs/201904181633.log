@@ -1,0 +1,26 @@
+2019-04-18 16:33:25,729-BrowserEngline-INFO-You had select Chrome browser
+2019-04-18 16:33:25,729-BrowserEngline-INFO-The test sever url is:http://192.168.1.203:8083/login
+2019-04-18 16:33:28,125-BrowserEngline-INFO-Staring chrome browser.
+2019-04-18 16:33:28,921-BrowserEngline-INFO-Open url:http://192.168.1.203:8083/login
+2019-04-18 16:33:30,062-BrowserEngline-INFO-Maximize the current window.
+2019-04-18 16:33:30,063-BrowserEngline-INFO-Set implicity wait 5 seconds. 
+2019-04-18 16:33:30,324-BasePage-INFO-输入内容
+2019-04-18 16:33:30,463-BasePage-INFO-输入内容
+2019-04-18 16:33:31,612-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:33:33,678-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 16:33:34,270-BasePage-INFO-输入内容
+2019-04-18 16:33:34,727-BasePage-INFO-输入内容
+2019-04-18 16:33:46,000-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-04-18 16:34:06,347-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-04-18 16:34:27,228-BasePage-INFO-输入内容
+2019-04-18 16:34:28,265-BasePage-INFO-输入内容
+2019-04-18 16:34:29,543-BasePage-INFO-输入内容
+2019-04-18 16:34:30,022-BasePage-INFO-输入内容
+2019-04-18 16:34:31,119-BasePage-ERROR-Failed to type in input box with object of type 'float' has no len()
+2019-04-18 16:34:31,498-BasePage-INFO-输入内容
+2019-04-18 16:34:39,731-BasePage-INFO-输入内容
+2019-04-18 16:34:40,113-BasePage-INFO-输入内容
+2019-04-18 16:34:48,824-BasePage-INFO-输入内容
+2019-04-18 16:34:49,057-BasePage-INFO-输入内容
+2019-04-18 16:34:49,447-BasePage-INFO-输入内容
+2019-04-18 16:35:08,969-BrowserEngline-INFO-日志记录退出并关闭浏览器

@@ -1,0 +1,39 @@
+2019-04-18 14:20:05,081-BrowserEngline-INFO-You had select Chrome browser
+2019-04-18 14:20:05,081-BrowserEngline-INFO-The test sever url is:http://192.168.1.203:8083/login
+2019-04-18 14:20:07,735-BrowserEngline-INFO-Staring chrome browser.
+2019-04-18 14:20:08,683-BrowserEngline-INFO-Open url:http://192.168.1.203:8083/login
+2019-04-18 14:20:09,825-BrowserEngline-INFO-Maximize the current window.
+2019-04-18 14:20:09,825-BrowserEngline-INFO-Set implicity wait 5 seconds. 
+2019-04-18 14:20:10,185-BasePage-INFO-输入内容
+2019-04-18 14:20:10,351-BasePage-INFO-输入内容
+2019-04-18 14:20:12,044-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:20:12,327-BasePage-INFO-输入内容
+2019-04-18 14:20:12,461-BasePage-INFO-输入内容
+2019-04-18 14:20:13,842-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:20:14,089-BasePage-INFO-输入内容
+2019-04-18 14:20:14,263-BasePage-INFO-输入内容
+2019-04-18 14:20:15,709-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:20:18,005-BrowserEngline-INFO-日志记录退出并关闭浏览器
+2019-04-18 14:20:49,892-BrowserEngline-INFO-You had select Chrome browser
+2019-04-18 14:20:49,892-BrowserEngline-INFO-The test sever url is:http://192.168.1.203:8083/login
+2019-04-18 14:20:52,654-BrowserEngline-INFO-Staring chrome browser.
+2019-04-18 14:20:53,504-BrowserEngline-INFO-Open url:http://192.168.1.203:8083/login
+2019-04-18 14:20:54,679-BrowserEngline-INFO-Maximize the current window.
+2019-04-18 14:20:54,681-BrowserEngline-INFO-Set implicity wait 5 seconds. 
+2019-04-18 14:20:54,968-BasePage-INFO-输入内容
+2019-04-18 14:20:55,139-BasePage-INFO-输入内容
+2019-04-18 14:20:56,508-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:20:59,040-BasePage-INFO-截图保存到 /screenshots
+2019-04-18 14:21:00,329-BasePage-INFO-输入内容
+2019-04-18 14:21:07,888-BasePage-INFO-输入内容
+2019-04-18 14:21:14,245-BasePage-INFO-输入内容
+2019-04-18 14:21:21,599-BasePage-INFO-输入内容
+2019-04-18 14:21:37,194-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-04-18 14:22:04,577-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-04-18 14:22:35,612-BasePage-INFO-输入内容
+2019-04-18 14:22:47,936-BasePage-INFO-输入内容
+2019-04-18 14:23:13,692-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-04-18 14:23:41,020-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-04-18 14:24:59,576-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-04-18 14:25:10,084-BasePage-ERROR-Failed to type in input box with 'NoneType' object has no attribute 'send_keys'
+2019-04-18 14:25:34,539-BrowserEngline-INFO-日志记录退出并关闭浏览器
